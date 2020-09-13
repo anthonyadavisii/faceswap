@@ -1,3 +1,4 @@
 -r _requirements_base.txt
+scipy==1.4.1
 tensorflow>=2.2.0,<2.3.0
 plaidml-keras==0.7.0
