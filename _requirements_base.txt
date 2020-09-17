@@ -1,3 +1,4 @@
+cmake
 tqdm>=4.42
 psutil>=5.7.0
 pathlib==1.0.1
